@@ -84,5 +84,8 @@ class BaseASR:
     def run_step(self):
         pass
 
+
+
     def get_next_feat(self,block,timeout):        
         return self.feat_queue.get(block,timeout)
+
