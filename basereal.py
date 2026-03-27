@@ -31,11 +31,6 @@ import subprocess
 
 
 
-
-
-
-
-
 import os
 import time
 import cv2
